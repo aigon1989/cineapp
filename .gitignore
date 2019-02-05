@@ -1,0 +1,6 @@
+### Eclipse ###
+.git
+.classpath
+.settings
+.project
+.springBeans
